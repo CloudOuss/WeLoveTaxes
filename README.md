@@ -1,2 +1,2 @@
 # WeLoveTaxes
-Simple Sales Tax Calculator
+Basic sales tax calculator
